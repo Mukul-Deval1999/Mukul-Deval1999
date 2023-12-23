@@ -26,7 +26,7 @@
 
 - ⭐ <a href="https://Mukul-Deval1999.github.io/">Click here to see my portfolio</a>
 
-- 💌 how to reach me **devalmukul@1999@gmail.com**
+- 💌 how to reach me **devalmukul1999@gmail.com**
 
 - 📄 Want to know more about me click here to see my **<a href="">Resume</a>**
 
@@ -92,6 +92,3 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mukul-Deval1999&show_icons=true&locale=en&layout=compact&theme=merko" alt="Mukul-Deval1999" /></p>
 
 
-<a href="https://google.com" align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</a>
