@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi👋 नमस्ते🙏 ? I'm Mukul Deval</h1>
+<h1 align="center">Hi👋 नमस्ते🙏 I'm Mukul Deval</h1>
 <p align="center">
  <em>
  If you are looking for a software engineer who is passionate about building great products, then I encourage you to reach out to me. I would be happy to discuss my skills and experience with you.eager to learn new technologies. I am also a team player and I enjoy working with others to solve problems.</em></p>
