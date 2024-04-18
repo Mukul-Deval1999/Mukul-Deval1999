@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact *I just learned coding in 10 months and I have 1200+ hrs coding experience*
 
-- ⭐ <a href="https://Mukul-Deval1999.github.io/">Click here to see my portfolio</a>
+- ⭐ <a href="https://resumemukul.netlify.app/">Click here to see my portfolio</a>
 
 - 💌 how to reach me **devalmukul1999@gmail.com**
 
